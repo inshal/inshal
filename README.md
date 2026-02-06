@@ -42,15 +42,15 @@ I usually start projects just because I think *"it would be cool if this existed
 
 | 💖 Viraasee | 🪪 Digital ID Card |
 |------------|------------------|
-| [![Viraasee](https://raw.githubusercontent.com/inshal/inshal/main/viraasee-gif.gif)](https://viraasee.com/) | [![ID Card](https://raw.githubusercontent.com/inshal/inshal/main/idcard-gif.gif)](https://inshal.dev/idcard) |
+| [![Viraasee](https://raw.githubusercontent.com/inshal/inshal/main/viraasee-gif.gif)](https://viraasee.com/) | [![ID Card](https://raw.githubusercontent.com/inshal/inshal/main/idcard-gif.gif)](https://raajje.app/id) |
 | **News / creative project** | **Maldives ID Card Info** |
-| [![Open](https://img.shields.io/badge/OPEN-FF69B4?style=for-the-badge&logo=heart&logoColor=white)](https://viraasee.com/) | [![View](https://img.shields.io/badge/VIEW-8A2BE2?style=for-the-badge&logo=id-card&logoColor=white)](https://inshal.dev/idcard) |
+| [![Open](https://img.shields.io/badge/OPEN-FF69B4?style=for-the-badge&logo=heart&logoColor=white)](https://viraasee.com/) | [![View](https://img.shields.io/badge/VIEW-8A2BE2?style=for-the-badge&logo=id-card&logoColor=white)](https://raajje.app/id) |
 
-| 🌐 Portfolio | 🗺️ Maldives Map |
+| 🌐 #AdeebFiles | 🗺️ Maldives Map |
 |-------------|----------------|
-| [![Main Site](https://raw.githubusercontent.com/inshal/inshal/main/webpage-gif.gif)](https://inshal.dev/) | [![Map](https://raw.githubusercontent.com/inshal/inshal/main/map-gif.gif)](https://inshal.dev/map) |
-| **Showcase • Experiments • Me** | **Interactive island explorer** |
-| [![Open](https://img.shields.io/badge/OPEN-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://inshal.dev/) | [![Explore](https://img.shields.io/badge/EXPLORE-2E8B57?style=for-the-badge&logo=map&logoColor=white)](https://inshal.dev/map) |
+| [![Main Site](https://raw.githubusercontent.com/inshal/inshal/main/bro-gif.gif)](https://inshal.dev/) | [![Map](https://raw.githubusercontent.com/inshal/inshal/main/map-gif.gif)](https://raajje.app/map) |
+| **#AdeebFiles • Experiments** | **Interactive island explorer** |
+| [![Open](https://img.shields.io/badge/OPEN-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raajje.app/AdeebFiles) | [![Explore](https://img.shields.io/badge/EXPLORE-2E8B57?style=for-the-badge&logo=map&logoColor=white)](https://raajje.app/map) |
 
 
 
