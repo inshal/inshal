@@ -67,9 +67,6 @@ I usually start projects just because I think *"it would be cool if this existed
   <sub >Thanks for scrolling this far 🐢✦</sub>
 </div>
   <br/><br/>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="Visitors" />
-  <br/><br/>
-</div>
+
 
 
