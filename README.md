@@ -48,7 +48,7 @@ I usually start projects just because I think *"it would be cool if this existed
 
 | 🌐 #AdeebFiles | 🗺️ Maldives Map |
 |-------------|----------------|
-| [![Main Site](https://raw.githubusercontent.com/inshal/inshal/main/bro-gif.gif)](https://inshal.dev/) | [![Map](https://raw.githubusercontent.com/inshal/inshal/main/map-gif.gif)](https://raajje.app/map) |
+| [![Main Site](https://raw.githubusercontent.com/inshal/inshal/main/bro-gif.gif)](https://raajje.app/AdeebFiles) | [![Map](https://raw.githubusercontent.com/inshal/inshal/main/map-gif.gif)](https://raajje.app/map) |
 | **#AdeebFiles • Experiments** | **Interactive island explorer** |
 | [![Open](https://img.shields.io/badge/OPEN-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raajje.app/AdeebFiles) | [![Explore](https://img.shields.io/badge/EXPLORE-2E8B57?style=for-the-badge&logo=map&logoColor=white)](https://raajje.app/map) |
 
