@@ -53,6 +53,16 @@ I usually start projects just because I think *"it would be cool if this existed
 | [![Open](https://img.shields.io/badge/OPEN-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://inshal.dev/) | [![Explore](https://img.shields.io/badge/EXPLORE-2E8B57?style=for-the-badge&logo=map&logoColor=white)](https://inshal.dev/map) |
 
 
+
+  <br/><br/>
+<div align="center">
+  <a href="https://inshal.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://x.com/0"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/inshal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:im@inshal.dev"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/root_mv"><img src="https://img.shields.io/badge/Telegram--getadf--?style=flat-square&logo=telegram&logoColor=white" /></a>
+</div>
+  <br/><br/>
 <div align="center">
   <sub >Thanks for scrolling this far 🐢✦</sub>
 </div>
@@ -61,3 +71,5 @@ I usually start projects just because I think *"it would be cool if this existed
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="Visitors" />
   <br/><br/>
 </div>
+
+
