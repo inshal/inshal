@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
 <br/><br/>
 
@@ -33,7 +35,7 @@ I'm a **web creator** from the Maldives 🇲🇻 who loves building fun, fast an
 
 I usually start projects just because I think *"it would be cool if this existed"* 😄
 
-- 🔨 Mostly build with: **PHP**, **HTML**, **CSS**, **JavaScript**, **Python**, **SQL**, **C++**
+- 🔨 Mostly build with: **PHP**, **HTML**, **CSS**, **JavaScript**, **Python**, **Swift**, **Kotlin**, **SQL**, **C++**
 - 🎨 Obsessed with: clean layouts, dark themes, smooth interactions, tiny file sizes
 </p>
 ---
@@ -45,6 +47,12 @@ I usually start projects just because I think *"it would be cool if this existed
 | [![Viraasee](https://raw.githubusercontent.com/inshal/inshal/main/viraasee-gif.gif)](https://viraasee.com/) | [![ID Card](https://raw.githubusercontent.com/inshal/inshal/main/idcard-gif.gif)](https://raajje.app/id) |
 | **News / creative project** | **Maldives ID Card Info** |
 | [![Open](https://img.shields.io/badge/OPEN-FF69B4?style=for-the-badge&logo=heart&logoColor=white)](https://viraasee.com/) | [![View](https://img.shields.io/badge/VIEW-8A2BE2?style=for-the-badge&logo=id-card&logoColor=white)](https://raajje.app/id) |
+
+| 💰 BML Statement Dashboard | 🕌 Quran in Dhivehi |
+|------------|------------------|
+| [![Viraasee](https://raw.githubusercontent.com/inshal/inshal/main/bml-gif.gif)](https://viraasee.com/) | [![ID Card](https://raw.githubusercontent.com/inshal/inshal/main/quran-gif.gif)](https://raajje.app/id) |
+| **Personal Finance Dashboard** | **Quran Audio in Dhivehi IOS & Android app** |
+| [![Open](https://img.shields.io/badge/OPEN-FF69B4?style=for-the-badge&logo=heart&logoColor=white)]([[https://viraasee.com/](https://inshal.github.io/BMLstatement/)](https://inshal.github.io/BMLstatement/)) | [![View](https://img.shields.io/badge/VIEW-8A2BE2?style=for-the-badge&logo=id-card&logoColor=white)]([[https://raajje.app/id](https://inshal.dev/quran/APP/)](https://inshal.dev/quran/APP/)) |
 
 | 🌐 #AdeebFiles | 🗺️ Maldives Map |
 |-------------|----------------|
@@ -67,6 +75,3 @@ I usually start projects just because I think *"it would be cool if this existed
   <sub >Thanks for scrolling this far 🐢✦</sub>
 </div>
   <br/><br/>
-
-
-
