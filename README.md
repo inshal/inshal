@@ -50,9 +50,9 @@ I usually start projects just because I think *"it would be cool if this existed
 
 | 💰 BML Statement Dashboard | 🕌 Quran in Dhivehi |
 |------------|------------------|
-| [![Viraasee](https://raw.githubusercontent.com/inshal/inshal/main/bml-gif.gif)](https://viraasee.com/) | [![ID Card](https://raw.githubusercontent.com/inshal/inshal/main/quran-gif.gif)](https://raajje.app/id) |
-| **Personal Finance Dashboard** | **Quran Audio in Dhivehi IOS & Android app** |
-| [![Open](https://img.shields.io/badge/OPEN-FF69B4?style=for-the-badge&logo=heart&logoColor=white)]([[https://viraasee.com/](https://inshal.github.io/BMLstatement/)](https://inshal.github.io/BMLstatement/)) | [![View](https://img.shields.io/badge/VIEW-8A2BE2?style=for-the-badge&logo=id-card&logoColor=white)]([[https://raajje.app/id](https://inshal.dev/quran/APP/)](https://inshal.dev/quran/APP/)) |
+| [![BML Dashboard](https://raw.githubusercontent.com/inshal/inshal/main/bml-gif.gif)](https://inshal.github.io/BMLstatement/) | [![Quran App](https://raw.githubusercontent.com/inshal/inshal/main/quran-gif.gif)](https://inshal.dev/quran/APP/) |
+| **Personal Finance Dashboard** | **Quran Audio in Dhivehi iOS & Android app** |
+| [![Open](https://img.shields.io/badge/OPEN-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://inshal.github.io/BMLstatement/) | [![View](https://img.shields.io/badge/VIEW-2E8B57?style=for-the-badge&logo=book&logoColor=white)](https://inshal.dev/quran/APP/) |
 
 | 🌐 #AdeebFiles | 🗺️ Maldives Map |
 |-------------|----------------|
