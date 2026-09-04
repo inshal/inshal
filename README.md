@@ -44,7 +44,7 @@ I usually start projects just because I think *"it would be cool if this existed
 
 | 💖 Viraasee | 🪪 Digital ID Card |
 |------------|------------------|
-| [![Viraasee](https://raw.githubusercontent.com/inshal/inshal/main/viraasee-gif.gif)](https://viraasee.com/) | [![ID Card](https://raw.githubusercontent.com/inshal/inshal/main/idcard-gif.gif)](https://raajje.app/id) |
+| [![Viraasee](https://raw.githubusercontent.com/inshal/inshal/main/viraasee-gif.gif)](https://viraasee.com/) | [![ID Card](https://raw.githubusercontent.com/inshal/inshal/main/idcard-gif.gif)](https://id.aslu.workers.dev) |
 | **News / creative project** | **Maldives ID Card Info** |
 | [![Open](https://img.shields.io/badge/OPEN-FF69B4?style=for-the-badge&logo=heart&logoColor=white)](https://viraasee.com/) | [![View](https://img.shields.io/badge/VIEW-8A2BE2?style=for-the-badge&logo=id-card&logoColor=white)](https://id.aslu.workers.dev) |
 
